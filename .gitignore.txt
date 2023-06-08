@@ -1,0 +1,6 @@
+.git
+.vscode
+DerivedDataCache
+Intermediate
+Platforms
+Saved
